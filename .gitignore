@@ -1,0 +1,17 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+
+/screenshota_of_playwright/
+
+applitools.log
+
+package-lock.json
+
+
+tests/example.classic.spec.js.txt
