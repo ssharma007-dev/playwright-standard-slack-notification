@@ -13,11 +13,9 @@ Make sure you have added slack/teams integration
 
 Execute 
 (1) npx playwright test
-(2) node closeBatchScript.js
 
 ![    ](<screenshot/image copy.png>)
 ![alt text](screenshot/s1.png)
-![alt text](screenshot/image.png)
 
 ### Output 
 Slack
